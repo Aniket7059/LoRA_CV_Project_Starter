@@ -1,0 +1,16 @@
+# Core deep learning framework
+torch
+
+# Hugging Face ecosystem
+transformers
+datasets
+peft
+accelerate
+
+# Data processing and numerical computing
+numpy
+pandas
+
+# Evaluation and visualization
+scikit-learn
+matplotlib
